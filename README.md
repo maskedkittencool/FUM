@@ -19,4 +19,4 @@ Not very frequently, I would guess atleast 1 every month! could be more, i dont 
 
 # Join my discord to support me! :)
 
-# https://discord.gg/mKMjf6YHR3
+## https://discord.gg/mKMjf6YHR3
