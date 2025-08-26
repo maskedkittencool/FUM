@@ -11,7 +11,7 @@ Absolutely! DM "maskedkittenluvsu" on discord and send your package, and what yo
 
 ## What if I have a outdated version of UFM and / or a outdated version of a package?
 
-No worrys! Both UFM and every package has a updater, whenever a new version is uploaded it will automatically update for you!
+No worrys! Both UFM and every package has a updater, whenever a new version is uploaded it will give a update option for you!
 
 ## How frequently will updates release?
 
